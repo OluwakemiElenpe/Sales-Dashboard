@@ -64,4 +64,7 @@ Southern States: Several states in the southern region, such as South Carolina, 
 ![](Sales_by_Retailer.JPG)
 
 ## Sales Dashboard
-
+The dashboard is an interactive dashboard. There are three (3) slicers namely:
+- Years: It can be used to filter the dashboard based on years.
+- Region: This interact with the dashboard based on region.
+- Product: It can be used to filter the dashboard based on product.
