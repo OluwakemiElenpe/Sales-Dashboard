@@ -63,4 +63,5 @@ Southern States: Several states in the southern region, such as South Carolina, 
 - Walmart and Amazon: Two of the most well-known retail giants, Walmart and Amazon, also achieved significant sales figures, with Walmart at $74,558,410 and Amazon at $77,698,912.
 ![](Sales_by_Retailer.JPG)
 
+## Sales Dashboard
 
