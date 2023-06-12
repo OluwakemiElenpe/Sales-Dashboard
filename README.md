@@ -4,7 +4,7 @@
 
 ## Introduction
 Introduction
-This is an excel project on sales analysis of imaginary store named **Adidas Store**. The project is to analyze and drive insights to answer crucial questions and help the store make data driven decisions.
+This is an excel project on sales analysis of imaginary store named **Adidas Store**. The project is to analyze and drive insights to answer crucial questions and help the store make data driven decisions. This is the link to the [dataset](https://view.flodesk.com/pages/62e6c1afc4d48aec3664b8e4)
 
 **_Disclaimer_**: _All datasets and reports do not represent any company, institution or country. But just a dummy dataset to demonstrate capabilities of Microsoft Excel_.
 
