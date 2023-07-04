@@ -26,7 +26,7 @@ The following Microsoft Excel skills were demonstrated:
   * interactive Dashboard Creation.
 
 ## Data Cleaning
-The dataset does to contain duplicate entry, no inaccuracy, and there is no inconsistency in the data. In other word the data is a clean data therefore there is no further cleaning.
+The dataset does not contain duplicate entry, no inaccuracy, and there is no inconsistency in the data. In other word the data is a clean data therefore there is no further cleaning.
 
 ![](The_dataset.JPG)
 
